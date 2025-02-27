@@ -1,5 +1,5 @@
 # Flutter Web Login Screen
-[20250227-0201-19.2216080.mp4](..%2F..%2FAppData%2FLocal%2FPackages%2FMicrosoft.ScreenSketch_8wekyb3d8bbwe%2FTempState%2FRecordings%2F20250227-0201-19.2216080.mp4)
+![img_1.png](img_1.png)
 
 A simple Flutter project showcasing a responsive web login screen with an animated background.
 
