@@ -1,5 +1,6 @@
 # Flutter Web Login Screen
-![img_1.png](img_1.png)
+![demoweb-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8e06f095-a3de-48fc-838d-de7ac68ffd22)
+
 
 A simple Flutter project showcasing a responsive web login screen with an animated background.
 
